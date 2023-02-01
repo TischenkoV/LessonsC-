@@ -1,0 +1,15 @@
+C:\Users\smart\Desktop\Lessons\C#_less\Example007\bin\Debug\net7.0\Example007.exe
+C:\Users\smart\Desktop\Lessons\C#_less\Example007\bin\Debug\net7.0\Example007.deps.json
+C:\Users\smart\Desktop\Lessons\C#_less\Example007\bin\Debug\net7.0\Example007.runtimeconfig.json
+C:\Users\smart\Desktop\Lessons\C#_less\Example007\bin\Debug\net7.0\Example007.dll
+C:\Users\smart\Desktop\Lessons\C#_less\Example007\bin\Debug\net7.0\Example007.pdb
+C:\Users\smart\Desktop\Lessons\C#_less\Example007\obj\Debug\net7.0\Example007.csproj.AssemblyReference.cache
+C:\Users\smart\Desktop\Lessons\C#_less\Example007\obj\Debug\net7.0\Example007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smart\Desktop\Lessons\C#_less\Example007\obj\Debug\net7.0\Example007.AssemblyInfoInputs.cache
+C:\Users\smart\Desktop\Lessons\C#_less\Example007\obj\Debug\net7.0\Example007.AssemblyInfo.cs
+C:\Users\smart\Desktop\Lessons\C#_less\Example007\obj\Debug\net7.0\Example007.csproj.CoreCompileInputs.cache
+C:\Users\smart\Desktop\Lessons\C#_less\Example007\obj\Debug\net7.0\Example007.dll
+C:\Users\smart\Desktop\Lessons\C#_less\Example007\obj\Debug\net7.0\refint\Example007.dll
+C:\Users\smart\Desktop\Lessons\C#_less\Example007\obj\Debug\net7.0\Example007.pdb
+C:\Users\smart\Desktop\Lessons\C#_less\Example007\obj\Debug\net7.0\Example007.genruntimeconfig.cache
+C:\Users\smart\Desktop\Lessons\C#_less\Example007\obj\Debug\net7.0\ref\Example007.dll
