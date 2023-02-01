@@ -1,6 +1,5 @@
 ﻿// Второй урок
-Console.WriteLine("Введите ваше имя");
+Console.Write("Введите ваше имя: ");
 string username = Console.ReadLine();     // ввод информации из терминала в переменную
-
-Console.WriteLine("Привет, ");
-Console.WriteLine(username);
+Console.Write("Привет, ");      // Вывод информации в терминале в строчку
+Console.Write(username);
